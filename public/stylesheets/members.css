@@ -1,0 +1,121 @@
+.favicon {
+  height: 50px;
+  width: 50px;
+}
+
+.text-color {
+  color: white;
+}
+body {
+  background-color: black;
+}
+  
+.navGuys {
+  margin: 20px auto;
+}
+
+.navvy {
+  background: inherit;
+  background-color: #424242;
+}
+
+.navHolder {
+  margin: 20px auto;
+}
+
+.member {
+  height: 1000px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.background {
+  background-image: url("/images/cityscape.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  display: block;
+  margin-bottom: 0px;
+  padding: 0px;
+  border-bottom: 500px, black, solid;
+}
+
+.searchin {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#savedTitles {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+
+.searchContainer {
+  float: left;
+  margin: 15px;
+  padding: 15px;
+}
+
+.dashboard {
+  display: none;
+  float: left;
+}
+
+#historyTitles {
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: grey;
+  font-size: 24px;
+  margin: 10px;
+}
+
+#savedTitles {
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: grey;
+  font-size: 24px;
+  margin: 10px;
+}
+
+.searchBtn:hover {
+  background-color: red;
+  color: red;
+}
+
+.searchBar {
+width: 600px;
+}
+
+#search {
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.searchResult {
+  float: left;
+  margin: 20px;
+}
+
+.savedComics {
+  float: left;
+  margin: 20px;
+}
+
+.searchInput {
+  font-size: 70px;
+  font: white;
+}
+
+.issueCard {
+  display: inline-block;
+}
+
+.card {
+  width: 200px;
+  height: 400px;
+  margin: 20px;
+  display: inline-block;
+}
